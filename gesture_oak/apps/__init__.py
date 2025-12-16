@@ -1,0 +1,1 @@
+# Apps module for OAK-D Gesture Recognition
